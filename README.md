@@ -19,4 +19,4 @@ Some things I think would be implemented for production:
 * Currency Conversions
 * Add ticker information to ticker (like float, market cap, etc.)
 
-I received this exercise the day it was due (and I didn't open the email until evening lol) so I didn't have much time to brush up on c++ idioms or carefully design everything with templates. But I had a lot of fun with this project and I'm looking forward to hearing back from y'all :)
+I  didn't open the email until the evening it was due so I didn't have much time to brush up on c++ idioms or carefully design everything with templates. But I had a lot of fun with this project and I'm looking forward to hearing back from y'all :)
